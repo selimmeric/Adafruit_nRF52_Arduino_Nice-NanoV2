@@ -128,6 +128,8 @@ $ nrfjprog -e -f nrf52
 $ nrfjprog --program feather_nrf52832_bootloader.hex -f nrf52
 $ nrfjprog --reset -f nrf52
 ```
+## The reason for forking from the Adafruit_nRF52_Arduino library is only to add the Nice!Nano V2 board.
+![supermini_nicenano](https://github.com/user-attachments/assets/ad2ea247-209c-47a6-941e-60fcf8a606cb)
 
 ## Credits
 
